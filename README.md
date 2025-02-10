@@ -1,29 +1,24 @@
-Financial Data Drift Analysis with Evidently AI & Logistic Regression
+#Financial Data Drift Analysis with Evidently AI & Logistic Regression
 This project uses Evidently AI and Logistic Regression to monitor financial data quality, detect drift, and track model performance over time. The model is trained on Google (GOOG) stock data from 2011 to 2024, using yearly batch processing.
 
-📌 Features
-📊 Fetches GOOG stock data from yfinance
-🔍 Detects data quality issues using Evidently AI
-⚖️ Trains a Logistic Regression model to predict stock movement (up/down)
-📈 Monitors drift in financial indicators across years
-📑 Logs Evidently AI reports for:
-Data Quality
-Feature Drift
-Target Drift
-📌 Installation
-1️⃣ Clone the Repository
+## 📌 Features
+- 📊 Fetches GOOG stock data from yfinance
+- 🔍 Detects data quality issues using Evidently AI
+- ⚖️ Trains a Logistic Regression model to predict stock movement (up/down)
+- 📈 Monitors drift in financial indicators across years
+- 📑 Logs Evidently AI reports for:
+  - Data Quality
+  - Feature Drift
+  - Target Drift
+  
+## 📌 Installation
+- 1️⃣ Clone the Repository
+  
+```git clone https://github.com/yourusername/yourrepo.git
+cd yourrepo```
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
 2️⃣ Install Required Dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 OR manually install:
 
 bash
