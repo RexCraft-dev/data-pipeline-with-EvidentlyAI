@@ -45,14 +45,14 @@ This will: ✅ Train & evaluate the model across yearly batches
 ✅ Print accuracy scores per year
 
 📌 Example Output
-```Processing Year: 2020...
+``Processing Year: 2020...
 Accuracy for Year 2020: 0.5521
 Processing Year: 2021...
 Accuracy for Year 2021: 0.5634
 Processing Year: 2022...
 Accuracy for Year 2022: 0.4792
 Processing Year: 2023...
-Accuracy for Year 2023: 0.3910  <-- Significant drop, drift detected!
+Accuracy for Year 2023: 0.3910  <-- Significant drop, drift detected!``
 
 ## 📌 Next Steps
 🔹 Visualize Predictions: Compare actual vs. predicted values over time
