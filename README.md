@@ -17,9 +17,13 @@ This project uses Evidently AI and Logistic Regression to monitor financial data
 cd yourrepo``
 
 2️⃣ Install Required Dependencies
-``pip install -r requirements.txt``
+```
+  pip install -r requirements.txt
+```
 OR manually install:
-``pip install evidently yfinance pandas numpy scikit-learn matplotlib``
+```
+pip install evidently yfinance pandas numpy scikit-learn matplotlib
+```
 
 ## 📌 How It Works
 1️⃣ Data Collection & Preprocessing
@@ -46,7 +50,7 @@ This will:
 - ✅ Print accuracy scores per year
 
 📌 Example Output
-``  
+```  
   Processing Year: 2020...
   Accuracy for Year 2020: 0.5521
   Processing Year: 2021...
@@ -55,7 +59,7 @@ This will:
   Accuracy for Year 2022: 0.4792
   Processing Year: 2023...
   Accuracy for Year 2023: 0.3910  <-- Significant drop, drift detected!
-``
+```
 
 ## 📌 Next Steps
 🔹 Visualize Predictions: Compare actual vs. predicted values over time
