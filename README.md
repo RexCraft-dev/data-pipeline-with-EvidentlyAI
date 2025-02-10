@@ -13,13 +13,13 @@ This project uses Evidently AI and Logistic Regression to monitor financial data
   
 ## 📌 Installation
 1️⃣ Clone the Repository
-```git clone https://github.com/yourusername/yourrepo.git```
-```cd yourrepo```
+``git clone https://github.com/yourusername/yourrepo.git
+cd yourrepo``
 
 2️⃣ Install Required Dependencies
-```pip install -r requirements.txt
+``pip install -r requirements.txt``
 OR manually install:
-```pip install evidently yfinance pandas numpy scikit-learn matplotlib
+``pip install evidently yfinance pandas numpy scikit-learn matplotlib``
 
 ## 📌 How It Works
 1️⃣ Data Collection & Preprocessing
