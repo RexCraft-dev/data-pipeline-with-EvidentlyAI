@@ -36,11 +36,12 @@ OR manually install:
 3️⃣ Evidently AI Reports for Monitoring
 - The following reports are generated per year and stored in lists:
 
-🛠 Data Quality Report (`quality_reports`)
-📊 Feature Drift Report (`drift_reports`)
-🎯 Target Drift Report (`target_drift_reports`)
+- 🛠 Data Quality Report (`quality_reports`)
+- 📊 Feature Drift Report (`drift_reports`)
+- 🎯 Target Drift Report (`target_drift_reports`)
 
-This will: ✅ Train & evaluate the model across yearly batches
+This will: 
+✅ Train & evaluate the model across yearly batches
 ✅ Generate Evidently AI reports for each year
 ✅ Print accuracy scores per year
 
