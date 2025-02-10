@@ -22,7 +22,9 @@ cd yourrepo
 ```
   pip install -r requirements.txt
 ```
+
 OR manually install:
+
 ```
 pip install evidently yfinance pandas numpy scikit-learn matplotlib
 ```
