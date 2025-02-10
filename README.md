@@ -13,8 +13,8 @@ This project uses Evidently AI and Logistic Regression to monitor financial data
   
 ## 📌 Installation
 1️⃣ Clone the Repository
-```git clone https://github.com/yourusername/yourrepo.git
-```cd yourrepo
+```git clone https://github.com/yourusername/yourrepo.git```
+```cd yourrepo```
 
 2️⃣ Install Required Dependencies
 ```pip install -r requirements.txt
