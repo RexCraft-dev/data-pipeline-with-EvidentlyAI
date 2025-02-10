@@ -41,9 +41,9 @@ OR manually install:
 - 🎯 Target Drift Report (`target_drift_reports`)
 
 This will: 
-✅ Train & evaluate the model across yearly batches
-✅ Generate Evidently AI reports for each year
-✅ Print accuracy scores per year
+- ✅ Train & evaluate the model across yearly batches
+- ✅ Generate Evidently AI reports for each year
+- ✅ Print accuracy scores per year
 
 📌 Example Output
 ``  
